@@ -1,7 +1,6 @@
 # Chatbot-Kirill
-This repo consists of notes and code from Kirill Eremenko's NLP / Chatbot Course. 
+This repo consists of notes and code from Kirill Eremenko's NLP / Chatbot Course. Notes are below. 
 
-# Notes
 
 # Bag of Words Model
 * Sparse vector (e.g. 20K words, assign value for number of time each word used)
