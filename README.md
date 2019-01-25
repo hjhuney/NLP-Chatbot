@@ -17,9 +17,14 @@ This repo consists of notes and code from Kirill Eremenko's NLP / Chatbot Course
 
 # Seq2Seq
 * Uses RNNs
-** Options: One-to-One, One-to-Many, Many-to-One, Many-to-Many
+* Options: One-to-One, One-to-Many, Many-to-One, Many-to-Many
 * Create a vector as long as our text; replace word with numerical version
 * Dense vector
 * For output, neural network will spit out probability score for words
 
 # Beam Search Decoding
+
+* Greedy Decoding: Pick the word with highest probability
+* Beam Search Decoding: Looks at top 3 words with highest probabilities
+* Beam search sort of like a decision tree; pick first word from 3 options; then 3 more options
+* Can throw away results with low join probabilities
