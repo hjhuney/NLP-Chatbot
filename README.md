@@ -1,4 +1,4 @@
-# Chatbot-Kirill
+# NLP-Chatbot
 This repo consists of notes and code from Kirill Eremenko's NLP / Chatbot Course. Notes are below. 
 
 
